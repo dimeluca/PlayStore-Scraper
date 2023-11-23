@@ -1,5 +1,5 @@
 # PlayStore-Scraper
-A Simple PlayStore Scraper
+A Simple PlayStore Scraper (Used for University thesis project)
 
 # Required Packages
 - [lxml](https://pypi.org/project/lxml/)<br>
